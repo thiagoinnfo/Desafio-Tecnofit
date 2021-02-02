@@ -1,0 +1,12 @@
+{
+    "name": "thiago/desafio-tecnofit",
+    "description": "Desafio Tecnofit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thiago Oliveira",
+            "email": "thiagoinnfo@gmail.com"
+        }
+    ],
+    "require": {}
+}
