@@ -2,9 +2,9 @@
 require dirname(__DIR__) . '/config/paths.php';
 require dirname(__DIR__) . '/vendor/autoload.php';
 
-use Src\Controller\AlunosController;
+use Src\Controller\HomeController;
 
-$controller = new AlunosController();
+$controller = new HomeController();
 $controller->index();
 
 //$controller = new $controllerClassName();
