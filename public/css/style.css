@@ -1,4 +1,12 @@
-.navbar-default .navbar-collapse, .navbar-default .navbar-form{
-    background-color: red;
-    border-color: red;
+.navbar-default .navbar-collapse, .navbar-default{
+    background-color: #ffffff;
+    border:none;
+}
+
+.navbar>.container-fluid .navbar-brand{
+    color: #337ab7;
+}
+
+.navbar-default .navbar-nav>li>a{
+    color: #337ab7;
 }
